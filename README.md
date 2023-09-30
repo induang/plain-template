@@ -1,4 +1,4 @@
-# plain-template
+# plain-templates
 
 放一些常用的开发工具的模板;
 
